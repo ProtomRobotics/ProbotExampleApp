@@ -1,0 +1,4 @@
+# Empty request
+---
+# JSON containing the response of service execution
+string response

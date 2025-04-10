@@ -1,0 +1,8 @@
+# actual content to be passed to the tts engine for audio output
+string text
+# JSON containing addiditonal informations regarding the tts service request
+# Ex. {"lang":"it-IT", "voice-pitch":3, "voice-speed":1}
+string metadata
+---
+# JSON containing the response of service execution
+string response

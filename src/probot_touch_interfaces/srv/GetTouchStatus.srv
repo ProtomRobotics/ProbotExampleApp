@@ -1,0 +1,10 @@
+# Constants
+uint8 HEAD_TOUCH = 0
+uint8 LEFT_TOUCH = 1
+uint8 RIGHT_TOUCH = 2
+
+# Request
+uint8 id
+---
+# Response
+bool state
